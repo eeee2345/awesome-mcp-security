@@ -129,7 +129,7 @@ Official Security Considerations from the [Official MCP Specification Rev: 2025-
 
 ## 🧑‍🚀 Tools and code
 
-- [ATR (Agent Threat Rules) - Open-source detection rules for AI agent threats (prompt injection, tool poisoning, data exfiltration). 108 rules, OWASP Agentic Top 10 coverage, Shipped in Cisco AI Defense. 53K skills scanned, 0% FP. PINT benchmarked](https://github.com/Agent-Threat-Rule/agent-threat-rules)
+- [ATR (Agent Threat Rules) - MIT-licensed open detection-rule standard for AI agent and MCP threats (prompt injection, tool poisoning, context exfiltration, skill supply-chain compromise). Sigma/YARA-style YAML rules with OWASP Agentic Top 10, MITRE ATLAS and SAFE-MCP crosswalks; the rule pack ships in Cisco AI Defense skill-scanner. Benchmarks are published upstream, version-pinned per measurement](https://github.com/Agent-Threat-Rule/agent-threat-rules)
 - [MCP Audit Extension - Audit and log all GitHub Copilot MCP tool calls in VSCode with ease](https://github.com/Agentity-com/mcp-audit-extension)
 - [Secure MCP - Security auditing tool to detect MCP vulnerabilities and misconfigurations by makalin](https://github.com/makalin/SecureMCP)
 - [mcp-context-protector - Security wrapper for MCP servers by trailofbits](https://github.com/trailofbits/mcp-context-protector)
